@@ -9,5 +9,5 @@ BEGIN catch
   PRINT(@V_SQL)
 END catch
 -------------------------------------------------------
---USAGE
+/*USAGE*/
 --EXEC [dbo].[EXEC_NOERR_SQL] 'select ''aaa'' as val'
